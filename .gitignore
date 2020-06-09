@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/node
 # Edit at https://www.toptal.com/developers/gitignore?templates=node
 
 ### Node ###
-=======
->>>>>>> origin/master
 # Logs
 logs
 *.log
@@ -91,11 +88,7 @@ dist
 
 # Gatsby files
 .cache/
-<<<<<<< HEAD
 # Comment in the public line in if your project uses Gatsby and not Next.js
-=======
-# Comment in the public line in if your project uses Gatsby and *not* Next.js
->>>>>>> origin/master
 # https://nextjs.org/blog/next-9-1#public-directory-support
 # public
 
@@ -113,11 +106,8 @@ dist
 
 # TernJS port file
 .tern-port
-<<<<<<< HEAD
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
 # End of https://www.toptal.com/developers/gitignore/api/node
-=======
->>>>>>> origin/master
